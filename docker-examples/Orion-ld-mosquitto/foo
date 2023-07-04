@@ -1,0 +1,32 @@
+{
+  "id": "urn:ngsi-ld:Subscription:mqttNotification",
+  "type": "Subscription",
+  "entities": [
+    {
+      "type": "xxxxxx"
+    },
+    {
+      "type": "yyyyy"
+    }
+  ],
+  "notification": {
+    "format": "normalized",
+    "endpoint": {
+      "uri": "mqtt://mosquitto:1883/entities",
+      "accept": "application/json",
+      "receiverInfo": [
+        {
+          "key": "k1",
+          "value": "123"
+        },
+        {
+          "key": "k2",
+          "value": "456"
+        }
+      ]
+    }
+  },
+  "@context": ["https://fiware.github.io/data-models/context.jsonld",
+               "https://uri.etsi.org/ngsi-ld/v1/ngsi-ld-core-context.jsonld"]
+}
+º

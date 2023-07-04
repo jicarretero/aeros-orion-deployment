@@ -1,0 +1,424 @@
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3003.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3003
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3004.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3004
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3005.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3005
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3006.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3006
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3007.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3007
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3010.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3010
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3012.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3012
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3014.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3014
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3016.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3016
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3018.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3018
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3019.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3019
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/AttributeProperty_a3020.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:AttributeProperty:a3020
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/CatalogueDCAT-AP_6885d9f1d28346174fcf9709c27f2473.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:CatalogueDCAT-AP:6885d9f1d28346174fcf9709c27f2473
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/CatalogueDCAT-AP_d7c094a6434383db2973aa116bab3008.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:CatalogueDCAT-AP:d7c094a6434383db2973aa116bab3008
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_1.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:1
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_2.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:2
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_3.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:3
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_4.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:4
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_5.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:5
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_AjustementSaisonnier.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:27 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:AjustementSaisonnier
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_C.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:C
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_HebergementNombresEtoiles.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:HebergementNombresEtoiles
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_I.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:I
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_K.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:K
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_M.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:M
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_NC.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:NC
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_N.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:N
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_R.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:R
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/ConceptSchema_ajustementsSaisonnier.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:ConceptSchema:ajustementsSaisonnier
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/ConceptSchema_hebergementsNombresEtoiles.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:ConceptSchema:hebergementsNombresEtoiles
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_S.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:S
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept__T.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:_T
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_T.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:T
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_W.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:W
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_X.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:X
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept_Y.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:Y
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Concept__Z.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Concept:_Z
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Dataset_dsd1001.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Dataset:dsd1001
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/Dataset_dsd3001.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:Dataset:dsd3001
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d1000.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d1000
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d1001.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d1001
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3002.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3002
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3004.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3004
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3005.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3005
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3006.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3006
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3007.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3007
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3008.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3008
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3009.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3009
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3010.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3010
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3011.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3011
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3012.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3012
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3013.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3013
+Content-Length: 0
+
+
+--------------------------------
+/home/jicg/Trabajo/Interstat/IoTAgent-Turtle/output/DimensionProperty_d3014.jsonld
+HTTP/1.1 201 Created
+Date: Wed, 25 Jan 2023 16:09:28 GMT
+Location: /ngsi-ld/v1/entities/urn:ngsi-ld:DimensionProperty:d3014
+Content-Length: 0
+
+
+--------------------------------

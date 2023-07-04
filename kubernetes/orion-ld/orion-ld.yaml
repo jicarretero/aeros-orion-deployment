@@ -1,0 +1,45 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: orion-ld
+  labels:
+    name: orion-ld-rs
+spec:
+  replicas: 1
+  selector:
+    matchLabels: 
+      name: orion-ld-rs
+  strategy:
+    type: RollingUpdate
+  template:
+    metadata:
+      name: orion-ld
+      labels:
+        name: orion-ld-rs
+    spec:
+      restartPolicy: Always
+      hostname: orion-ld
+      containers:
+        - name: orion-ld
+          image: fiware/orion-ld
+          args: ["-dbhost", "mongodb", "-logLevel", "DEBUG", "-experimental"]
+          ports:
+            - containerPort: 1026
+
+---
+apiVersion: v1
+kind: Service
+metadata:
+  name: orion-ld-service
+  labels:
+    name: orion-ld-rs
+spec:
+  type: ClusterIP
+  selector:
+    name: orion-ld-rs
+  ports:
+    - name: ngsild
+      port: 80
+      targetPort: 1026
+      protocol: TCP
+
